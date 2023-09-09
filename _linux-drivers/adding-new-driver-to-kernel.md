@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Adding a New Driver to Kernel Source
 ---
 

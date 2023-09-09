@@ -1,3 +1,6 @@
+---
+title:  Describing Non-Discoverable Hardware in Device Tree
+---
 # Describing Non-Discoverable Hardware in Device Tree
 
 Device Tree is used to describe hardware components in embedded systems, including both discoverable and non-discoverable hardware. Non-discoverable hardware refers to devices that cannot be enumerated or identified by the operating system using standard methods such as PCI bus scanning.

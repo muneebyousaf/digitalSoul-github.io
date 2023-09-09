@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Compiling and Loading an Out-of-Tree Kernel Module
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: VRMS - Virtual Richard M. Stallman
 ---
 

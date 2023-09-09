@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: Linux Topics
-permalink 
 ---
 
 # Internal Links

@@ -1,3 +1,6 @@
+---
+title: Interaction of Drivers, Pinctrl Subsystem Core, SoC-Specific Pinctrl Drivers, and Device Trees in Linux
+---
 # Interaction of Drivers, Pinctrl Subsystem Core, SoC-Specific Pinctrl Drivers, and Device Trees in Linux
 
 In the Linux kernel, the configuration and management of GPIO pins on embedded systems involve the collaboration of various components. Let's walk through each step of this interaction with an example to illustrate the process.

@@ -1,3 +1,6 @@
+---
+title: Understanding the Pin Control (pinctrl) Subsystem in Linux
+---
 # Understanding the Pin Control (pinctrl) Subsystem in Linux
 
 The Pin Control (pinctrl) subsystem in the Linux kernel is a vital component responsible for managing and configuring the GPIO (General-Purpose Input/Output) pins on embedded systems and SoCs (System-on-Chips). These GPIO pins are essential for interfacing with various hardware peripherals, such as sensors, displays, and communication interfaces.
