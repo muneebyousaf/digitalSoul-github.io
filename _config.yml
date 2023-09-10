@@ -39,6 +39,8 @@ collections:
     output: true 
   kernel:
     output: true 
+  misc:
+    output: true 
 #
 #include: ['_pages']
 #include: ['_data']

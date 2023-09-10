@@ -1,5 +1,7 @@
 ---
 title: VRMS - Virtual Richard M. Stallman
+
+name: Muneeb Yousaf
 ---
 
 # VRMS - Virtual Richard M. Stallman
@@ -16,4 +18,4 @@ To use VRMS on your Debian-based system, you can install it with the following c
 
 ```bash
 sudo apt-get install vrms
-
+```

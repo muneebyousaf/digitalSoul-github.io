@@ -26,7 +26,13 @@ layout: default
 
 <ul>
   <li>
-    <a href="/linux-drivers/">View All Linux Drivers</a>
+    <a href="/linux-drivers/">Device  drivers</a>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="/misc/">Miscellaneous Articles </a>
   </li>
 </ul>
 
