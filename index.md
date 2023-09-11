@@ -26,6 +26,12 @@ layout: default
 
 <ul>
   <li>
+    <a href="/dt/">Device Trees</a>
+  </li>
+</ul>
+<ul>
+
+  <li>
     <a href="/linux-drivers/">Device  drivers</a>
   </li>
 </ul>

@@ -41,6 +41,8 @@ collections:
     output: true 
   misc:
     output: true 
+  dt:
+    output: true 
 #
 #include: ['_pages']
 #include: ['_data']
